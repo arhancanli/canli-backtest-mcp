@@ -23,7 +23,7 @@
     "@modelcontextprotocol/server": "2.3.1",
     "canli-fundamentals-mcp": "^0.7.0",
     "canli-markets-mcp": "^0.7.0",
-    "canli-validation-mcp": "^0.14.0",
+    "canli-validation-mcp": "^0.15.0",
     "zod": "4.6.7"
   },
   "devDependencies": {
